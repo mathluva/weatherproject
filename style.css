@@ -1,0 +1,39 @@
+.box {
+  min-height: 50px;
+  padding: 5px;
+  margin: 5px;
+  font-weight: 800;
+  color: #fff;
+}
+
+.skyblue {
+  background: deepskyblue;
+}
+
+.purple {
+  background: lavender;
+}
+
+.red {
+  background: indianred;
+}
+.title{
+  text-align: center; 
+  font-size:72}
+.center{
+  text-align:center;
+  font-family:sans-serif
+}
+.sans{font-family:sans-serif}
+
+.sidebar {
+  height: 100%;
+  width: 160px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  padding-top: 16px;
+}
